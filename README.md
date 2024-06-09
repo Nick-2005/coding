@@ -54,6 +54,10 @@ I am currently on Day 9 of the challenge. Here is a brief overview of what I've 
 2. Nesting Dictionaries and Lists
 3. Introducing the Day 9 Project: Secret Auction
 
+## Section 11: Day 10 - Beginner - Functions with Outputs
+1. Functions with Return Values
+2. Recursion
+3. Introducing the Day 10 Project: Calculator
 
 ## Key Features
 - **Daily Progress:** Each day is documented in a separate folder, containing code snippets, exercises, and explanations.
