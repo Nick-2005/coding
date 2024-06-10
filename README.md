@@ -59,6 +59,11 @@ I am currently on Day 9 of the challenge. Here is a brief overview of what I've 
 2. Recursion
 3. Introducing the Day 10 Project: Calculator
 
+## Section 12: Day 11 - Blackjack Capstone Project
+- Building the Blackjack Game
+- Using Functions and Loops
+- Game Logic and User Interaction
+
 ## Key Features
 - **Daily Progress:** Each day is documented in a separate folder, containing code snippets, exercises, and explanations.
 - **Projects:** Regular projects to apply the concepts learned and build practical applications.
