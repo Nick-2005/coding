@@ -64,6 +64,11 @@ I am currently on Day 9 of the challenge. Here is a brief overview of what I've 
 - Using Functions and Loops
 - Game Logic and User Interaction
 
+## Section 13: Day 12 - Scope and Number Guessing Game
+- Understanding Scope and Global/Local Variables
+- Modifying Variables with Global Scope
+- Number Guessing Game Project
+
 ## Key Features
 - **Daily Progress:** Each day is documented in a separate folder, containing code snippets, exercises, and explanations.
 - **Projects:** Regular projects to apply the concepts learned and build practical applications.
