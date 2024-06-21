@@ -69,6 +69,13 @@ I am currently on Day 9 of the challenge. Here is a brief overview of what I've 
 - Modifying Variables with Global Scope
 - Number Guessing Game Project
 
+## Section 14: Day 13 - Debugging
+- Reading Errors and Stack Traces
+- Debugging Techniques
+- Using Debuggers
+
+
+
 ## Key Features
 - **Daily Progress:** Each day is documented in a separate folder, containing code snippets, exercises, and explanations.
 - **Projects:** Regular projects to apply the concepts learned and build practical applications.
