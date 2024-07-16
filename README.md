@@ -5,9 +5,8 @@ Welcome to my "100 Days of Python" challenge repository!
 ## About the Challenge
 This repository documents my journey through 100 days of Python programming. Each day, I tackle a new Python concept, problem, or project to deepen my understanding and proficiency in the language. The challenge aims to enhance my skills and showcase my dedication to continuous learning and improvement in Python.
 
-
 ## Current Progress
-I am currently on Day 9 of the challenge. Here is a brief overview of what I've covered so far:
+I am currently on Day 15 of the challenge. Here is a brief overview of what I've covered so far:
 
 # 100 Days of Python Challenge - Angela Yu's Udemy Course Syllabus
 
@@ -74,12 +73,17 @@ I am currently on Day 9 of the challenge. Here is a brief overview of what I've 
 - Debugging Techniques
 - Using Debuggers
 
+## Section 15: Day 14 - Higher Lower Game
+- Combining Concepts Learned
+- Building the Higher Lower Game Project
 
+## Section 16: Day 15 - Local Development Environment and Coffee Machine Project
+- Setting Up Local Development Environment
+- Introduction to PyCharm
+- Building the Coffee Machine Project
 
 ## Key Features
 - **Daily Progress:** Each day is documented in a separate folder, containing code snippets, exercises, and explanations.
 - **Projects:** Regular projects to apply the concepts learned and build practical applications.
 - **Readability:** Clean and well-commented code to ensure readability and maintainability.
 - **Documentation:** Each module and project is accompanied by documentation to explain the functionality and usage.
-
-
